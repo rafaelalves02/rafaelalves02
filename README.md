@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Rafael 👋
 
-<!--
-**rafaelalves02/rafaelalves02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Web FullStack. Tenho experiência em projetos tanto na parte do backend como no frontend
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular  
+- **Backend:** C#, .NET Core 
+- **Banco de Dados:** MySQL
+
+## 🚀 Projetos 
+
+Confira os repositórios abaixo para ver meus projetos mais recentes.
+
+## Para mais informações accsse meu portfolio no link abaixo
+
+[Meu portfolio](https://portfolio-rafael-alves.web.app)
