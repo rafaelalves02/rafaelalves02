@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael 👋
 
-Sou desenvolvedor Web FullStack. Tenho experiência em projetos tanto na parte do backend como no frontend
+Sou desenvolvedor Web FullStack, e com certo conhecimento em DevOps com Azure
 
 ## 🛠️ Tecnologias que utilizo:
 
